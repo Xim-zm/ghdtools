@@ -59,9 +59,9 @@
       <span class="info-text">Llamar: 55 3662 9845</span>
     </a>
 
-    <a class="info-item" href="https://wa.me/525536629845?text=Buen%20día%2C%20con%20gusto%20lo%20atenderemos%20en%20un%20momento." target="_blank">
+    <a class="info-item" href="https://wa.me/525536629845?text=Hola%20Me%2C%20interesa%20un%20producto%20y%20quisiera%20información.%20 :)" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
-      <span class="info-text">WhatsApp: 55 3662 9845</span>
+      <span class="info-text">WhatsApp: 55 71602590</span>
     </a>
 
     <a class="info-item" href="https://www.instagram.com/ghd__tools?igsh=MTY2M2Z6M2xrcHh6Zg%3D%3D&utm_source=qr" target="_blank">
