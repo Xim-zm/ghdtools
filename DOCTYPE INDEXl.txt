@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>GHD Tools - Info</title>
+  <link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Arimo', sans-serif;
+      background-color: #d3d3d3;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+    }
+
+    .header-img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .info-item {
+      display: flex;
+      align-items: center;
+      background-color: #d3d3d3;
+      margin: 10px 0;
+      padding: 10px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: black;
+    }
+
+    .info-item img {
+      width: 32px;
+      height: 32px;
+      margin-right: 15px;
+    }
+
+    .info-text {
+      font-size: 16px;
+    }
+
+    a:hover {
+      background-color: #c0c0c0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="ghd-header.png" alt="GHD Tools" class="header-img">
+
+    <a class="info-item" href="tel:+525536629845">
+      <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/>
+      <span class="info-text">Llamar: 55 3662 9845</span>
+    </a>
+
+    <a class="info-item" href="https://wa.me/525536629845?text=Buen%20día%2C%20con%20gusto%20lo%20atenderemos%20en%20un%20momento." target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+      <span class="info-text">WhatsApp: 55 3662 9845</span>
+    </a>
+
+    <a class="info-item" href="https://www.instagram.com/ghd__tools?igsh=MTY2M2Z6M2xrcHh6Zg%3D%3D&utm_source=qr" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+      <span class="info-text">Instagram: @ghd__tools</span>
+    </a>
+
+    <a class="info-item" href="mailto:horaciocsanchez@hotmail.com">
+      <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png"/>
+      <span class="info-text">Correo: horaciocsanchez@hotmail.com</span>
+    </a>
+
+    <a class="info-item" href="https://regaderasymescladoras.com" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png"/>
+      <span class="info-text">Catálogo Digital</span>
+    </a>
+
+    <a class="info-item" href="https://maps.app.goo.gl/eqXtqU2fMT3GP4J56" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/google-maps-new.png"/>
+      <span class="info-text">Ubicación en Google Maps</span>
+    </a>
+
+  </div>
+</body>
+</html>
